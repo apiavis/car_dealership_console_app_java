@@ -1,0 +1,4 @@
+# Java Car Dealership App
+
+## Overview
+This project was used to practice OOP principles, as well as Java.  The purpose of the project was to create a car dealership console application. Through the command line, a user can create a dealership and purchase vehicles from a factory.  The Factory class manufactures the vehicles from a JSON file. Once vehicles are manufactured and purchased by a dealership, the dealership can sell, wash, refuel, test drive, check insurance, and check maintenance on the vehicles.  The dealership can also create new customers.  The project uses a Vehicle superclass with Car, Truck, Ev (electric vehicle), and Motorcycle subclasses.  The Dealership class posses methods to carry out functionalities on the vehicles.  The Factory class uses constructors to produce vehicles of the correct type.
